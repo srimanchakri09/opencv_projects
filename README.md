@@ -1,0 +1,3 @@
+# opencv_projects
+
+IT INCLUDES BASIC PROJECTS RELATED TO OPEN CV
